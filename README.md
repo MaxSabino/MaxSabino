@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaxSabino
-- 👀 I’m interested in Python, SQL, JS, JAVA
+- 👀 I’m interested in Python, SQL, JSP, Data Science, WebSystem.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sabinodrive@gmail.com, +55-21-92015-3932
